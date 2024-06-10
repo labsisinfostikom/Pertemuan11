@@ -12,3 +12,6 @@ echo 19826-263,"<br>";
 echo -22.8 - 19.1,"<br>";
 // Using Number Variables
 echo $age + $movie_rating, "<br>";
+// MULTIPLICATION AND DIVISION
+echo 2*3, "<br>";
+echo 24/7, "<br>";
